@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[old:home|Door43 (old)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-old|d43-old repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-old/archive/master.zip|d43-old.zip]]
+
+**Recent Changes**
+{{changes>ns = old}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/old|Ethnologue data]]
+
